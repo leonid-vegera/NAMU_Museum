@@ -10,6 +10,6 @@ Responsive page for different screen sizes:
 - Tablet 1024
 - Mobile (> 320px)
 
-Technologies used: HTML, CSS, JavaScript
+Technologies used: HTML, SCSS, BEM
 
-[DEMO Link of landing](https://leonid-vegera.github.io/Museum_landing/)
+[DEMO Link of landing](https://leonid-vegera.github.io/NAMU_Museum/)
